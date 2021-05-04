@@ -1,0 +1,14 @@
+
+WEBSITE DEVELOPMENT
+TASK 1
+
+Basic Banking System
+===============
+
+It is a Dynamic Website with 10 Dummy Customers Data in DataBase and enables money Transaction between them. The Transaction table Records all the transactions made from one customer to another.
+
+Front End Languages - HTML,CSS
+Back End Language - PHP
+Database - MySql
+Software to run the website - XAMPP
+
